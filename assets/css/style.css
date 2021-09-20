@@ -1,0 +1,34 @@
+heading1{
+    color:green;
+}
+.heading4{
+    background: #7777;
+    border:1px solid red;
+    padding:5px 10px
+}
+.heading6{
+    background: #ddd;
+    border:1px solid green;
+    padding:5px 10px
+}
+div{
+    background:blue;
+}
+#bg-img{
+    background-image: url("../image//ex.jpg")
+    background-repeat: no-reeat;
+    background-size:cover;
+}
+.fonts{
+    font=weight
+}
+.box-model{
+    height:100px;
+    width:100px;
+    padding:30px;
+    margin:30px;
+    border:1px solid red;
+    background: #000;
+    color: #fff;
+    text-align:center;
+}
